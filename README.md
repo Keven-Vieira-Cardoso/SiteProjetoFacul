@@ -1,2 +1,2 @@
 # SiteProjetoFacul
-Site desenvolvido durante as aulas da faculdade
+Repositorio do site desenvolvido durante as aulas da faculdade
